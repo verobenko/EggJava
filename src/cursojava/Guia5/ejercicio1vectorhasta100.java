@@ -25,7 +25,7 @@ public class ejercicio1vectorhasta100 {
         for (int i=0; i<100; i++) {
             vector [i] = leer.nextInt();
         }
-        for (int i = 99; i <vector.length; i--) {
+        for (int i = 99; i <vector.; i--) {
             vector [i] = leer.nextInt();
             System.out.println(vector [i]);
         }
